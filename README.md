@@ -1,4 +1,8 @@
-# build_machine_cmake_qemu_armhf
+detailed reference 
+https://gist.github.com/AnshulYbd/36d966712d77c0df5474298170029fc6
+
+
+# build_machine_cmake_qemu_armhf 
 
 Install Qemu on windows
 https://qemu.weilnetz.de/w64/qemu-w64-setup-20221230.exe
